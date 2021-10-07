@@ -28,13 +28,11 @@ struct ContentView: View {
                 
                 HStack {
                     Text("software company Bangladesh Branch")
-                    .font(.subheadline)
-                    
                     Spacer()
-                    
                     Text("Dhaka!")
-                    .font(.subheadline)
+                    
                 }
+                .font(.subheadline).foregroundColor(.secondary)
                 
                 Divider()
                 
