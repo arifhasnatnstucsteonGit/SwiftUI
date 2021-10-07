@@ -19,17 +19,18 @@ struct ContentView: View {
             CircleImage()
                 .offset(y:-130)
                 .padding(.bottom,-130)
+            
                 
             VStack(alignment:.leading) {
                 
-               Text("DreamOnline!")
+               Text("Turtle!")
                     .font(.title)
                    
                 
                 HStack {
-                    Text("software company Bangladesh Branch")
+                    Text("Turle is a sea animal")
                     Spacer()
-                    Text("Dhaka!")
+                    Text("Cox's Bazar!")
                     
                 }
                 .font(.subheadline).foregroundColor(.secondary)
