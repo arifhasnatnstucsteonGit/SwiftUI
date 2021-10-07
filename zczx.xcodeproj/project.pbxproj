@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4FB62EC8270EBBDA00B6AFA7 /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FB62EC7270EBBDA00B6AFA7 /* CircleImage.swift */; };
+		4FB62EC9270EBBDA00B6AFA7 /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FB62EC7270EBBDA00B6AFA7 /* CircleImage.swift */; };
 		4FBA395B270DFFB600A56821 /* zczxApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FBA394B270DFFB500A56821 /* zczxApp.swift */; };
 		4FBA395C270DFFB600A56821 /* zczxApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FBA394B270DFFB500A56821 /* zczxApp.swift */; };
 		4FBA395D270DFFB600A56821 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FBA394C270DFFB500A56821 /* ContentView.swift */; };
@@ -16,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4FB62EC7270EBBDA00B6AFA7 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
 		4FBA394B270DFFB500A56821 /* zczxApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = zczxApp.swift; sourceTree = "<group>"; };
 		4FBA394C270DFFB500A56821 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		4FBA394D270DFFB600A56821 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -56,6 +59,7 @@
 			children = (
 				4FBA394B270DFFB500A56821 /* zczxApp.swift */,
 				4FBA394C270DFFB500A56821 /* ContentView.swift */,
+				4FB62EC7270EBBDA00B6AFA7 /* CircleImage.swift */,
 				4FBA394D270DFFB600A56821 /* Assets.xcassets */,
 			);
 			path = Shared;
@@ -178,6 +182,7 @@
 			files = (
 				4FBA395D270DFFB600A56821 /* ContentView.swift in Sources */,
 				4FBA395B270DFFB600A56821 /* zczxApp.swift in Sources */,
+				4FB62EC8270EBBDA00B6AFA7 /* CircleImage.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -187,6 +192,7 @@
 			files = (
 				4FBA395E270DFFB600A56821 /* ContentView.swift in Sources */,
 				4FBA395C270DFFB600A56821 /* zczxApp.swift in Sources */,
+				4FB62EC9270EBBDA00B6AFA7 /* CircleImage.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

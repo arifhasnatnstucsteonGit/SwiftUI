@@ -9,13 +9,22 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        VStack {
+        VStack(alignment:.leading) {
             Text("DreamOnline!")
                 .font(.title)
                 .padding()
             
-            Text("software company!")
-                .padding()
+            HStack {
+                Text("software company!")
+                    .padding()
+                .font(.headline)
+                
+                Text("Dhaka!")
+                    .padding()
+                .font(.subheadline)
+            }
+            
+                
                 
         }
     }
